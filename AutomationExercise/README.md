@@ -19,12 +19,10 @@ This project contains the following tools & language:
 ### Framework design
 #### Core Component
 * DriverFactory is a class which takes care of driver instances.
-* Page is base class which takes care of basic operation on a page.
-* ElementRepo is a class which takes care of element identification on a web page.
-
 #### Page Objects
-
+* Page is base class which takes care of basic operation on a page.
 #### Cucumber Layer 
+* ElementRepo is a class which takes care of element identification on a web page.
 
 
 ###  Test Automation environment setup
