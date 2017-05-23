@@ -55,7 +55,9 @@ This project contains the following tools & language:
 2. To view, Open index.html in any browser
 
 ###  Further Improvements
-*
+* Test data Implementation 
+* Better Assertions implementation
+* Parallel Execution
     
     
     
