@@ -1,0 +1,10 @@
+!.gitignore
+.DS_Store
+**/*.DS_Store
+eclipse
+*.eml
+.history
+.idea
+/.idea_modules
+*.iml
+target/
