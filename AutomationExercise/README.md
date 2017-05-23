@@ -11,11 +11,21 @@ QA and BA have sat down together to write the tests in simple English so that an
 * BDD provides capability to automate Specs/Acceptance Criteria.
 
 This project contains the following tools & language:
-    Java
-    Cucumber
-    Selenium-webDriver
-    Junit
-  
+    * Java
+    * Cucumber JVM
+    * Selenium-webDriver
+    * Junit
+
+### Framework design
+#### Core Component
+* DriverFactory is a class which takes care of driver instances.
+* Page is base class which takes care of basic operation on a page.
+* ElementRepo is a class which takes care of element identification on a web page.
+
+#### Page Objects
+
+#### Cucumber Layer 
+
 
 ###  Test Automation environment setup
 
@@ -46,6 +56,8 @@ This project contains the following tools & language:
 1. Cucumber reports are found under `target\CucumberReports`
 2. To view, Open index.html in any browser
 
+###  Further Improvements
+*
     
     
     
